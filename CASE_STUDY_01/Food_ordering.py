@@ -5,7 +5,7 @@ distance = float(input("Enter delivery distance: "))
 
 customer_type = input("Enter customer type (regular/premium/new): ").lower()
 customer_rating = float(input("Enter customer rating: "))
-restaurant_rating = float(input("Enter restaurant rating: "))
+restaurant_rating = float(input("Enater restaurant rating: "))
 preparation_time = int(input("Enter preparation time: "))
 
 payment_method = input("Enter payment method (upi/card/cash): ").lower()
